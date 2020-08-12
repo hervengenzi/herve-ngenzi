@@ -1,5 +1,6 @@
 ### Hello Community 😄
 ## 🔭 I’m currently working on some cool things
+Feel free to reach out
 
 <!--
 **hervengenzi/hervengenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
